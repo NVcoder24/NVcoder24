@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Sql" width="26px" src="https://github.com/NVcoder24/NVcoder24/blob/main/sql.png" />
 <img align="left" alt="HTML5" width="26px" src="https://ankityddv.github.io/img/skills/html.png" />
 <img align="left" alt="Css" width="26px" src="https://ankityddv.github.io/img/skills/css.png" />
-<img align="left" alt="Js" width="26px" src="https://github.com/NVcoder24/NVcoder24/blob/main/js.png" />
+<img align="left" alt="Js" width="26px" src="https://github.com/NVcoder24/NVcoder24/blob/main/Js.png" />
 <br />
 <br />
 
