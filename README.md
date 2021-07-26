@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### My skills:
 <img align="left" alt="Python" width="26px" src="https://ankityddv.github.io/img/skills/python.png" />
-<img align="left" alt="Sql" width="26px" src="https://ankityddv.github.io/img/skills/sql.png" />
+<img align="left" alt="Sql" width="26px" src="https://github.com/NVcoder24/NVcoder24/sql.ppng" />
 <img align="left" alt="HTML5" width="26px" src="https://ankityddv.github.io/img/skills/html.png" />
 <img align="left" alt="Css" width="26px" src="https://ankityddv.github.io/img/skills/css.png" />
-<img align="left" alt="Js" width="26px" src="https://ankityddv.github.io/img/skills/js.png" />
+<img align="left" alt="Js" width="26px" src="https://github.com/NVcoder24/NVcoder24/js.png" />
 <br />
 <br />
 
