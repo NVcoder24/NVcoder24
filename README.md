@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on MNEMG
 - 🌱 I’m currently learning robotics
-- ⚡ Fun fact: Encry is pidoras
+- ⚡ Fun fact: difa anal
 
 [![NVcoder's github stats](https://github-readme-stats.vercel.app/api?username=NVcoder24)](https://github.com/anuraghazra/github-readme-stats)
 
